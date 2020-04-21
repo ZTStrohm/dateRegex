@@ -7,7 +7,7 @@
 #=============================================================
 
 import re
-
+#ff
 #	Name: dateSearch
 #	Desc: Searches for dates with mm/dd/yyyy or dd/mm/yyyy format
 #	Params: _searchString [str]: Text to search, mode [int]: Specifies date format
